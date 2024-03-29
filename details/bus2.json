@@ -1,0 +1,94 @@
+{
+    "BUS_2": [
+      {
+        "SI.NO": 1,
+        "STAGE": "Thiruvarur",
+        "CROSSING TIME": "6.35am"
+      },
+      {
+        "SI.NO": 2,
+        "STAGE": "Membalam",
+        "CROSSING TIME": "6.37am to 6.38am"
+      },
+      {
+        "SI.NO": 3,
+        "STAGE": "Valavaikal",
+        "CROSSING TIME": "6.40am to 6.42am"
+      },
+      {
+        "SI.NO": 4,
+        "STAGE": "Pulivalam",
+        "CROSSING TIME": "6.43am to 6.44am"
+      },
+      {
+        "SI.NO": 5,
+        "STAGE": "Koodur",
+        "CROSSING TIME": "6.48am to 6.50am"
+      },
+      {
+        "SI.NO": 6,
+        "STAGE": "Mangudi",
+        "CROSSING TIME": "6.52am to 6.54am"
+      },
+      {
+        "SI.NO": 7,
+        "STAGE": "Thiruneiper",
+        "CROSSING TIME": "6.56am to 6.58am"
+      },
+      {
+        "SI.NO": 8,
+        "STAGE": "Mavoor",
+        "CROSSING TIME": "6.59am to 7.01am"
+      },
+      {
+        "SI.NO": 9,
+        "STAGE": "Thirukkaravasal",
+        "CROSSING TIME": "7.02am to 7.04am"
+      },
+      {
+        "SI.NO": 10,
+        "STAGE": "Komal",
+        "CROSSING TIME": "7.06am to 7.08am"
+      },
+      {
+        "SI.NO": 11,
+        "STAGE": "Uththirangudi",
+        "CROSSING TIME": "7.09am to 7.11am"
+      },
+      {
+        "SI.NO": 12,
+        "STAGE": "Nal Road",
+        "CROSSING TIME": "7.12am to 7.13am"
+      },
+      {
+        "SI.NO": 13,
+        "STAGE": "Katchanam",
+        "CROSSING TIME": "7.14am to 7.16am"
+      },
+      {
+        "SI.NO": 14,
+        "STAGE": "Kothangudi",
+        "CROSSING TIME": "7.18am to 7.20am"
+      },
+      {
+        "SI.NO": 15,
+        "STAGE": "Alathambadi",
+        "CROSSING TIME": "7.22am to 7.24am"
+      },
+      {
+        "SI.NO": 16,
+        "STAGE": "Manali",
+        "CROSSING TIME": "7.27am to 7.29am"
+      },
+      {
+        "SI.NO": 17,
+        "STAGE": "Veloor",
+        "CROSSING TIME": "7.30am to 7.32am"
+      },
+      {
+        "SI.NO": 18,
+        "STAGE": "Thiruthuraipoondi",
+        "CROSSING TIME": "7.32am to 7.35am"
+      }
+    ]
+  }

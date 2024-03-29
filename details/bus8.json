@@ -1,0 +1,89 @@
+{
+  "BUS_8": [
+    {
+      "SI.NO": 1,
+      "STAGE": "Thiruvarur",
+      "CROSSING TIME": "12.15am"
+    },
+    {
+      "SI.NO": 2,
+      "STAGE": "Membalam",
+      "CROSSING TIME": "12.17am to 12.18am"
+    },
+    {
+      "SI.NO": 3,
+      "STAGE": "Valavaikal",
+      "CROSSING TIME": "12.20am to 12.21am"
+    },
+    {
+      "SI.NO": 4,
+      "STAGE": "கிடாரங்கொண்டான்",
+      "CROSSING TIME": "12.24am to 12.27am"
+    },
+    {
+      "SI.NO": 5,
+      "STAGE": "அடியக்கமங்கலம்",
+      "CROSSING TIME": "12.28am to 12.30am"
+    },
+    {
+      "SI.NO": 6,
+      "STAGE": "ஆண்டிப்பாளையம்",
+      "CROSSING TIME": "12.30am to 12.31am"
+    },
+    {
+      "SI.NO": 7,
+      "STAGE": "அதிபுலியூர்",
+      "CROSSING TIME": "12.33am to 12.35am"
+    },
+    {
+      "SI.NO": 8,
+      "STAGE": "நீலபடி",
+      "CROSSING TIME": "12.36am to 12.37am"
+    },
+    {
+      "SI.NO": 9,
+      "STAGE": "குருக்கத்தி",
+      "CROSSING TIME": "12.39am to 12.40am"
+    },
+    {
+      "SI.NO": 10,
+      "STAGE": "கூத்துர்",
+      "CROSSING TIME": "12.42am to 12.43am"
+    },
+    {
+      "SI.NO": 11,
+      "STAGE": "அகரகடம்புனுர்",
+      "CROSSING TIME": "12.45am to 12.47am"
+    },
+    {
+      "SI.NO": 12,
+      "STAGE": "ஆழியூர்",
+      "CROSSING TIME": "12.50am to 12.52am"
+    },
+    {
+      "SI.NO": 13,
+      "STAGE": "சிக்கல்",
+      "CROSSING TIME": "12.53am to 12.54am"
+    },
+    {
+      "SI.NO": 14,
+      "STAGE": "மஞ்சகொல்லை",
+      "CROSSING TIME": "12.56am to 12.58am"
+    },
+    {
+      "SI.NO": 15,
+      "STAGE": "புத்தூர்",
+      "CROSSING TIME": "01.01am to 01.02am"
+    },
+    {
+      "SI.NO": 16,
+      "STAGE": "அன்னா சிலை",
+      "CROSSING TIME": "01.05am to 01.07am"
+    },
+    {
+      "SI.NO": 17,
+      "STAGE": "Nagapattinam",
+      "CROSSING TIME": "01.08am to 01.10am"
+    }
+  ]
+}

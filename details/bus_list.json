@@ -1,0 +1,60 @@
+{
+    "BUS": [
+      {
+        "SI.NO": 1,
+        "BUS_NAME": "bus1",
+        "FROM": "Thiruvarur",
+        "TO": "Thiruthuraipoondi",
+        "TIME": "5.30am"
+      },
+      {
+        "SI.NO": 2,
+        "BUS_NAME": "bus2",
+        "FROM": "Thiruvarur",
+        "TO": "Thiruthuraipoondi",
+        "TIME": "6.35am"
+      },
+      {
+        "SI.NO": 3,
+        "BUS_NAME": "bus3",
+        "FROM": "Thiruvarur",
+        "TO": "Thiruthuraipoondi",
+        "TIME": "4.50am"
+      },
+      {
+        "SI.NO": 4,
+        "BUS_NAME": "bus4",
+        "FROM": "Thiruvarur",
+        "TO": "Thiruthuraipoondi",
+        "TIME": "8.15am"
+      },
+      {
+        "SI.NO": 5,
+        "BUS_NAME": "bus5",
+        "FROM": "Thiruvarur",
+        "TO": "Thiruthuraipoondi",
+        "TIME": "7.05am"
+      },
+      {
+        "SI.NO": 6,
+        "BUS_NAME": "bus6",
+        "FROM": "Thiruvarur",
+        "TO": "Thiruthuraipoondi",
+        "TIME": "10.10am"
+      },
+      {
+        "SI.NO": 7,
+        "BUS_NAME": "bus7",
+        "FROM": "Thiruvarur",
+        "TO": "Thiruthuraipoondi",
+        "TIME": "9.05am"
+      },
+      {
+        "SI.NO": 8,
+        "BUS_NAME": "bus8",
+        "FROM": "Thiruvarur",
+        "TO": "Nagapattinam",
+        "TIME": "12.15am"
+      }
+    ]
+  }

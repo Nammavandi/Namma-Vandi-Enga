@@ -1,0 +1,94 @@
+{
+  "BUS_6": [
+    {
+      "SI.NO": 1,
+      "STAGE": "Thiruvarur",
+      "CROSSING TIME": "10.10am"
+    },
+    {
+      "SI.NO": 2,
+      "STAGE": "Membalam",
+      "CROSSING TIME": "10.12am to 10.13am"
+    },
+    {
+      "SI.NO": 3,
+      "STAGE": "Valavaikal",
+      "CROSSING TIME": "10.15am to 10.17am"
+    },
+    {
+      "SI.NO": 4,
+      "STAGE": "Pulivalam",
+      "CROSSING TIME": "10.18am to 10.19am"
+    },
+    {
+      "SI.NO": 5,
+      "STAGE": "Koodur",
+      "CROSSING TIME": "10.23am to 10.25am"
+    },
+    {
+      "SI.NO": 6,
+      "STAGE": "Mangudi",
+      "CROSSING TIME": "10.27am to 10.29am"
+    },
+    {
+      "SI.NO": 7,
+      "STAGE": "Thiruneiper",
+      "CROSSING TIME": "10.31am to 10.33am"
+    },
+    {
+      "SI.NO": 8,
+      "STAGE": "Mavoor",
+      "CROSSING TIME": "10.34am to 10.36am"
+    },
+    {
+      "SI.NO": 9,
+      "STAGE": "Thirukkaravasal",
+      "CROSSING TIME": "10.37am to 10.39am"
+    },
+    {
+      "SI.NO": 10,
+      "STAGE": "Komal",
+      "CROSSING TIME": "10.41am to 10.43am"
+    },
+    {
+      "SI.NO": 11,
+      "STAGE": "Uththirangudi",
+      "CROSSING TIME": "10.44am to 10.46am"
+    },
+    {
+      "SI.NO": 12,
+      "STAGE": "Nal Road",
+      "CROSSING TIME": "10.47am to 10.48am"
+    },
+    {
+      "SI.NO": 13,
+      "STAGE": "Katchanam",
+      "CROSSING TIME": "10.49am to 10.51am"
+    },
+    {
+      "SI.NO": 14,
+      "STAGE": "Kothangudi",
+      "CROSSING TIME": "10.53am to 10.55am"
+    },
+    {
+      "SI.NO": 15,
+      "STAGE": "Alathambadi",
+      "CROSSING TIME": "10.58am to 10.59am"
+    },
+    {
+      "SI.NO": 16,
+      "STAGE": "Manali",
+      "CROSSING TIME": "11.02am to 11.04am"
+    },
+    {
+      "SI.NO": 17,
+      "STAGE": "Veloor",
+      "CROSSING TIME": "11.05am to 11.07am"
+    },
+    {
+      "SI.NO": 18,
+      "STAGE": "Thiruthuraipoondi",
+      "CROSSING TIME": "11.07am to 11.10am"
+    }
+  ]
+}
